@@ -1,0 +1,22 @@
+| #  | Medicine name  | Example strength |
+| -- | -------------- | ---------------- |
+| 1  | Paracetamol    | 500 mg           |
+| 2  | Cetirizine     | 10 mg            |
+| 3  | Ibuprofen      | 400 mg           |
+| 4  | Azithromycin   | 500 mg           |
+| 5  | Amoxicillin    | 500 mg           |
+| 6  | Pantoprazole   | 40 mg            |
+| 7  | Omeprazole     | 20 mg            |
+| 8  | Montelukast    | 10 mg            |
+| 9  | Metformin      | 500 mg           |
+| 10 | Amlodipine     | 5 mg             |
+| 11 | Diclofenac     | 50 mg            |
+| 12 | Levocetirizine | 5 mg             |
+| 13 | Dolo 650       | 650 mg           |
+| 14 | Crocin         | 500 mg           |
+| 15 | Allegra        | 120 mg           |
+| 16 | Becosules      | Capsule          |
+| 17 | ORS            | Sachet           |
+| 18 | Digene         | Tablet           |
+| 19 | Gelusil        | Tablet           |
+| 20 | Volini         | Gel              |
